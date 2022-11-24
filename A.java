@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class A {
 public static void main(String[] args) {
 	
-	int a[] = {1, 2, 2, 3, 4, 5, 6, 6, 7 ,7, 1 , 2,50,1,7,2,50};
+	int a[] = {1, 2, 2, 3, 4, 5, 6, 6, 7 ,7, 1 , 2,50};
 	Arrays.sort(a);
 //	int temp[] = new int[a.length];
 	
