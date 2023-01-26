@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class A {
 public static void main(String[] args) {
-	
+	String s = "LUfyy";
 	int a[] = {1, 2, 2, 3, 4, 5, 6, 6, 7 ,7, 1 , 2,50};
 	Arrays.sort(a);
 //	int temp[] = new int[a.length];
